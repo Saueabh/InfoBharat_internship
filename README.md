@@ -31,7 +31,7 @@ This project is the **frontend** of an Event Management System built using React
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Abhik-Chakraborty/event-management-system-frontend.git
+git clone https://github.com/Saueabh/event-management-system-frontend.git
 cd event-management-system-frontend
 
 ```
